@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "6G AI Robustness Framework"
-message: "If you use this software, please cite it as described below."
+message: "If you use this software, please cite it."
 type: software
 
 authors:
@@ -9,26 +9,20 @@ authors:
   given-names: "Mohammed A. M."
   orcid: "https://orcid.org/0009-0002-6717-7364"
 
-abstract: >
-Research-grade framework for improving robustness in real-world
-6G wireless networks using Artificial Intelligence, Graph Neural
-Networks, stochastic geometry, dynamic blockage modeling,
-reinforcement learning, and adversarial robustness evaluation.
-
 keywords:
 
-* 6G
-* Artificial Intelligence
-* Wireless Communications
-* Graph Neural Networks
-* Reinforcement Learning
-* Network Robustness
+- "6G"
+- "Artificial Intelligence"
+- "Wireless Communications"
+- "Graph Neural Networks"
+- "Reinforcement Learning"
+- "Network Robustness"
 
-license: MIT
+license: "MIT"
 
 version: "1.0.0"
 
-date-released: 2026-06-12
+date-released: "2026-06-12"
 
 repository-code: "https://github.com/MohammedAlshibly/6G_AI_Robustness_Framework"
 
