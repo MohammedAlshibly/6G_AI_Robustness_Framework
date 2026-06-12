@@ -6,7 +6,7 @@ type: software
 authors:
 
 * family-names: "Al-Shibly"
-  given-names: "Mohammed Abuljawad M."
+  given-names: "Mohammed A. M."
   orcid: "https://orcid.org/0009-0002-6717-7364"
 
 abstract: >
@@ -23,15 +23,13 @@ keywords:
 * Graph Neural Networks
 * Reinforcement Learning
 * Network Robustness
-* Stochastic Geometry
-* AI for Communications
 
 license: MIT
 
-version: 1.0.0
+version: "1.0.0"
 
 date-released: 2026-06-12
 
-repository-code: https://github.com/YOUR_USERNAME/6G_AI_Robustness_Framework
+repository-code: "https://github.com/MohammedAlshibly/6G_AI_Robustness_Framework"
 
-url: https://github.com/YOUR_USERNAME/6G_AI_Robustness_Framework
+url: "https://github.com/MohammedAlshibly/6G_AI_Robustness_Framework"
