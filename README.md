@@ -111,8 +111,7 @@ The framework can be utilized for:
 •	Intelligent Wireless Communications Research
 ________________________________________
 Citation
-If you use this software in your research, please cite both the associated research article and the software repository.
-A DOI will be assigned through Zenodo upon repository release.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20665723.svg)](https://doi.org/10.5281/zenodo.20665723)
 ________________________________________
 License
 This project is released under the MIT License.
